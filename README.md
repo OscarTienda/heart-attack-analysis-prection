@@ -45,3 +45,17 @@ Sigue estos pasos para configurar tu entorno:
     ```
 
 Recuerda siempre activar el entorno virtual antes de trabajar en el proyecto (`source hearth-attack-env/bin/activate` o `.\hearth-attack-env\Scripts\activate` dependiendo de tu sistema operativo). Cuando hayas terminado de trabajar, puedes desactivar el entorno virtual con el comando `deactivate`.
+
+## Abrir Jupyter Notebook con Visual Studio Code
+
+Una vez que hayas iniciado el servidor de Jupyter Notebook, puedes trabajar con los notebooks directamente en Visual Studio Code. Para hacerlo, sigue estos pasos:
+
+1. **Obtén el enlace del servidor de Jupyter Notebook**: Cuando inicias el servidor de Jupyter Notebook desde la terminal, deberías ver un mensaje que contiene un URL. Copia este URL.
+
+2. **Abre Visual Studio Code**: Lanza Visual Studio Code y abre el archivo Jupyter Notebook (`code/heart-attack-analysis-prediction.ipynb`).
+
+3. **Conéctate al servidor de Jupyter Notebook**: En la parte superior derecha de la ventana del Jupyter Notebook, haz clic en el botón "Select Kernel". En el menú desplegable, selecciona la opción "Select Another Kernel". Luego, selecciona la opción "Existing Jupyter Server". Cuando se te pida que proporciones el URL del servidor de Jupyter, pega el URL que copiaste en el primer paso.
+
+4. Si te pide un usuario, déjalo blank y pulsa Enter.
+
+Ahora puedes editar y ejecutar celdas de Jupyter Notebook directamente desde Visual Studio Code.
