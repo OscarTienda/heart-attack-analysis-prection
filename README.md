@@ -1,3 +1,7 @@
+# Autores
+- César Fernández García
+- Oscar Tienda Beteta
+
 # Análisis y Predicción de Ataques al Corazón
 
 Este repositorio contiene Jupyter Notebooks y scripts para el análisis y predicción de ataques al corazón.
