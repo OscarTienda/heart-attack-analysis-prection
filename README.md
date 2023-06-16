@@ -17,7 +17,8 @@ La estructura del proyecto es la siguiente:
             heart_reducted_rfe.csv                   # dataset reducción dimensionalidad con RFE
     .gitignore
     README.md
-    requirements.txt
+    requirements.txt                                 # librerías necesarias para ejecutar el código
+    Deliverable_TIPOLOGIA_PRA2.pdf                   # documento con las respuestas a las preguntas de la práctica
 
 
 ## Configuración del Entorno
