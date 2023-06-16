@@ -6,6 +6,20 @@
 
 Este repositorio contiene Jupyter Notebooks y scripts para el análisis y predicción de ataques al corazón.
 
+La estructura del proyecto es la siguiente:
+
+    code/
+        heart-attack-analysis-prediction.ipynb       # código a ejecutar
+    datasets/
+            heart.csv                                # dataset original
+            heart_cleaned.csv                        # dataset preprocesado
+            heart_reducted_pca.csv                   # dataset reducción dimensionalidad con ACP
+            heart_reducted_rfe.csv                   # dataset reducción dimensionalidad con RFE
+    .gitignore
+    README.md
+    requirements.txt
+
+
 ## Configuración del Entorno
 
 Para trabajar en este proyecto, necesitarás crear un entorno virtual de Python y activarlo. Este proceso aislará las dependencias de este proyecto de tus otros proyectos de Python.
