@@ -18,7 +18,7 @@ La estructura del proyecto es la siguiente:
     .gitignore
     README.md
     requirements.txt                                 # librerías necesarias para ejecutar el código
-    Deliverable_TIPOLOGIA_PRA2.pdf                   # documento con las respuestas a las preguntas de la práctica
+    Deliverable_TIPOLOGIA_PRA2.pdf                   # documento con las preguntas y respuestas de la práctica
 
 
 ## Configuración del Entorno
